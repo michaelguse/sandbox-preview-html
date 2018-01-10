@@ -1,7 +1,7 @@
 {
-  "name": "sandbox-preview",
+  "name": "sandbox-preview-html",
   "version": "1.0.0",
-  "description": "Sandbox Preview app",
+  "description": "Sandbox Preview HTML app",
   "author": "Michelle Lamoureaux",
   "main": "index.js",
   "dependencies": {
@@ -29,11 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelguse/sandbox-preview.git"
+    "url": "git+https://github.com/michaelguse/sandbox-preview-html.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelguse/sandbox-preview/issues"
+    "url": "https://github.com/michaelguse/sandbox-preview-html/issues"
   },
-  "homepage": "https://github.com/michaelguse/sandbox-preview#readme"
+  "homepage": "https://github.com/michaelguse/sandbox-preview-html#readme"
 }
