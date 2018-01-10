@@ -1,0 +1,39 @@
+{
+  "name": "sandbox-preview",
+  "version": "1.0.0",
+  "description": "Sandbox Preview app",
+  "author": "Michelle Lamoureaux",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-basic-auth": "^1.0.2",
+    "file-system": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-file-include": "^0.14.0",
+    "gulp-gzip": "^1.4.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-nunjucks-render": "^2.2.1",
+    "gulp-s3": "^0.3.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-watch": "^4.3.9",
+    "imagemin-pngquant": "^5.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelguse/sandbox-preview.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelguse/sandbox-preview/issues"
+  },
+  "homepage": "https://github.com/michaelguse/sandbox-preview#readme"
+}
